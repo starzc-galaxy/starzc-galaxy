@@ -2,7 +2,7 @@
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on Swift & iOS
+- :orange_book: Focusing on python & C/C++ & vue
 - :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
+- :ram: Development task leader
 - :meat_on_bone: Meat lover
